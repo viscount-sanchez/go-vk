@@ -1,4 +1,4 @@
-module github.com/NoNick/go-vk
+module github.com/viscount-sanchez/go-vk
 
 go 1.24.5
 
